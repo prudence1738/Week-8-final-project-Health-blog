@@ -139,3 +139,48 @@ footer {
   text-align: justify;
   line-height: 1.7;
   }
+/* Services Page */
+.services {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.services h2 {
+  color: #00695c;
+  margin-bottom: 1rem;
+}
+
+.services p {
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.service-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  flex: 1 1 250px;
+  max-width: 300px;
+  text-align: center;
+}
+
+.card-img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.card h3 {
+  color: #004d40;
+  margin-bottom: 0.5rem;
+}
