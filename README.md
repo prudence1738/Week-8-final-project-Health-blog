@@ -28,7 +28,7 @@ This project is deployed with **GitHub Pages**.
 ## 🖼️ Images & Assets
 
 - Images sourced from [Unsplash](https://unsplash.com) (royalty-free).  
-- All assets are stored in `/assets/images/`.  
+- All assets are stored in `/assets/images.  
 
 ---
 
