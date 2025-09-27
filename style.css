@@ -236,3 +236,6 @@ footer {
 .contact-form button:hover {
   background: #004d40;
   }
+html {
+  scroll-behavior: smooth;
+}
