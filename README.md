@@ -21,7 +21,7 @@ A responsive multipage health awareness blog focusing on underlying conditions l
 ## 🚀 Deployment
 
 This project is deployed with **GitHub Pages**.  
-🔗 Live URL: [View Website Here](https://prudence1738.github.io/health-blog/)  
+🔗 Live URL: [View Website] https://prudence1738.github.io/Week-8-final-project-Health-blog/ 
 
 ---
 
